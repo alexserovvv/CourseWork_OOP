@@ -1,0 +1,16 @@
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_3.35\gas_station\gas_station\bin\Release\netcoreapp3.1\gas_station.exe
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_3.35\gas_station\gas_station\bin\Release\netcoreapp3.1\gas_station.deps.json
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_3.35\gas_station\gas_station\bin\Release\netcoreapp3.1\gas_station.runtimeconfig.json
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_3.35\gas_station\gas_station\bin\Release\netcoreapp3.1\gas_station.runtimeconfig.dev.json
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_3.35\gas_station\gas_station\bin\Release\netcoreapp3.1\gas_station.dll
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_3.35\gas_station\gas_station\bin\Release\netcoreapp3.1\gas_station.pdb
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_3.35\gas_station\gas_station\obj\Release\netcoreapp3.1\gas_station.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_3.35\gas_station\gas_station\obj\Release\netcoreapp3.1\gas_station.Form1.resources
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_3.35\gas_station\gas_station\obj\Release\netcoreapp3.1\gas_station.csproj.GenerateResource.cache
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_3.35\gas_station\gas_station\obj\Release\netcoreapp3.1\gas_station.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_3.35\gas_station\gas_station\obj\Release\netcoreapp3.1\gas_station.AssemblyInfoInputs.cache
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_3.35\gas_station\gas_station\obj\Release\netcoreapp3.1\gas_station.AssemblyInfo.cs
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_3.35\gas_station\gas_station\obj\Release\netcoreapp3.1\gas_station.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_3.35\gas_station\gas_station\obj\Release\netcoreapp3.1\gas_station.dll
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_3.35\gas_station\gas_station\obj\Release\netcoreapp3.1\gas_station.pdb
+C:\Users\alexs\OneDrive\Рабочий стол\[Заказы]\ООП\coursework_3.35\gas_station\gas_station\obj\Release\netcoreapp3.1\gas_station.genruntimeconfig.cache

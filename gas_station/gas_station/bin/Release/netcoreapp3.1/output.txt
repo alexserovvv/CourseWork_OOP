@@ -1,0 +1,40 @@
+Starting simulation
+Initial state:
+Profit:0
+Positions:
+АИ-92; Cost:45,60; Amount:10000
+АИ-95; Cost:49,40; Amount:10000
+АИ-98; Cost:58; Amount:10000
+
+Day 1
+Sold: 19 leters of АИ-98. Profit:1102
+Sold: 54 leters of АИ-98. Profit:3132
+Sold: 51 leters of АИ-92. Profit:2325,60
+Sold: 37 leters of АИ-95. Profit:1827,80
+Sold: 76 leters of АИ-95. Profit:3754,40
+Sold: 10 leters of АИ-92. Profit:456,00
+Sold: 24 leters of АИ-92. Profit:1094,40
+Sold: 17 leters of АИ-98. Profit:986
+
+Day 2
+Sold: 26 leters of АИ-92. Profit:1185,60
+Sold: 25 leters of АИ-92. Profit:1140,00
+Sold: 25 leters of АИ-95. Profit:1235,00
+Sold: 75 leters of АИ-98. Profit:4350
+
+Day 3
+Sold: 21 leters of АИ-98. Profit:1218
+Sold: 73 leters of АИ-95. Profit:3606,20
+Sold: 36 leters of АИ-95. Profit:1778,40
+Sold: 44 leters of АИ-98. Profit:2552
+Sold: 44 leters of АИ-95. Profit:2173,60
+Sold: 53 leters of АИ-92. Profit:2416,80
+Sold: 59 leters of АИ-95. Profit:2914,60
+
+Simulation is over
+Final state:
+Profit:39248,40
+Positions:
+АИ-92; Cost:45,60; Amount:9811
+АИ-95; Cost:49,40; Amount:9650
+АИ-98; Cost:58; Amount:9770
